@@ -19,7 +19,7 @@ int main(int argc, char **argv){
         
         1000000000000000  = Begin
 
-        0100000000000001  = Shifted the 1 by 1 positions
+        0100000000000000  = Shifted the 1 by 1 positions
         0001000000000000  = Shifted the 1 by 2 positions  
         0000001000000000  = Shifted the 1 by 3 positions    
         0000000000100000  = Shifted the 1 by 4 positions  
